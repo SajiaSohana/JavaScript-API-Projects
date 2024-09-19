@@ -7,4 +7,4 @@
 <p>Photoss CRUD App is a responsive web application that allows users to create, read, update, and delete posts using the JSONPlaceholder API. Built with Axios for API requests and it's fully responsive for both desktop and mobile devices.</p>
 <br>
 <hr>
-<p>[Live Demo](https://albums-crud-jsonplaceholder-api.netlify.app/)</p>
+<p>[Live Demo](https://photos-crud-app-jsonnplaceholder-api.netlify.app/)</p>

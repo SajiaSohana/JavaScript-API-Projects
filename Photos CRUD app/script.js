@@ -12,7 +12,7 @@ let photosData = [];
 async function getPhotos() {
     try {
         const response = await axios.get(photosApiUrl);
-        photosData = response.data.slice(0, 10); // Display only the first 10 photos
+        photosData = response.data.slice(0, 12); // Display only the first 10 photos
         renderPhotos(photosData);
     } catch (error) {
         console.error('Error fetching photos:', error);

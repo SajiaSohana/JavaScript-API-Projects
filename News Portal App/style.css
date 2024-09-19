@@ -1,0 +1,91 @@
+body.dark-theme {
+    background-color: #1e1e1e;
+    color: #ffffff;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+#content-container {
+    padding-top: 80px;
+}
+
+.card {
+    background-color: #2e2e2e;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 200px;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.card-text {
+    color: #aaaaaa;
+    font-size: 0.9rem;
+    flex-grow: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+
+.card-body .btn {
+    background-color: #3a3a3a; /* Muted, sober shade of dark gray */
+    color: #ffffff;
+    border: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.card-body .btn:hover {
+    background-color: #565656; /* Lighter gray for hover */
+}
+
+.carousel-item img {
+    object-fit: cover;
+    max-height: 400px;
+}
+
+.btn-login {
+    background-color: #ff5722; /* Different color for login */
+    color: #ffffff;
+}
+
+.btn-login:hover {
+    background-color: #e64a19; /* Darker shade for hover */
+}
+
+.btn-subscribe {
+    background-color: #4caf50; /* Different color for subscribe */
+    color: #ffffff;
+}
+
+.btn-subscribe:hover {
+    background-color: #388e3c; /* Darker shade for hover */
+}
+
+footer {
+    background-color: #212121;
+}

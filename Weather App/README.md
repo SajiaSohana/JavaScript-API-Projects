@@ -5,7 +5,7 @@ A simple weather application using the openweather API
   <img src="./weather .png" alt="">
   <br>
   <hr>
-  </hr>
+  
 
 STEPS TO RUN THE CODE: 
 1. Go to https://openweathermap.org

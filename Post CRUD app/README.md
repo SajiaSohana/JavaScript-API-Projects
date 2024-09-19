@@ -5,3 +5,6 @@
 <br>
 <hr>
 <p>Post CRUD App is a responsive web application that allows users to create, read, update, and delete posts using the JSONPlaceholder API. Built with Axios for API requests and it's fully responsive for both desktop and mobile devices.</p>
+<br>
+<hr>
+<p>[Live Demo](https://post-crud-app-jsonplaceholder-api.netlify.app/)</p>

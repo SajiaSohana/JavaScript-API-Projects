@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photos CRUD with Axios</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="text-center py-5">
+            <h1 class="text-white">Photos CRUD App</h1>
+        </header>
+
+        <!-- Create Photo Form -->
+        <section class="create-photo mb-5">
+            <h3 class="text-white">Create a New Photo</h3>
+            <form id="createPhotoForm">
+                <div class="mb-3">
+                    <label for="title" class="form-label text-white">Photo Title</label>
+                    <input type="text" id="title" class="form-control" required>
+                </div>
+                <div class="mb-3">
+                    <label for="url" class="form-label text-white">Photo URL</label>
+                    <input type="text" id="url" class="form-control" required>
+                </div>
+                <button type="submit" class="btn btn-primary">Create Photo</button>
+            </form>
+        </section>
+
+        <!-- Photos List -->
+        <section class="photos-list mb-5">
+            <h3 class="text-white">Photos</h3>
+            <div id="photosContainer" class="row"></div>
+        </section>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

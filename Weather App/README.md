@@ -1,5 +1,11 @@
 # WeatherApplication
-A simple weather application using the openweather API.
+A simple weather application using the openweather API
+<br>
+<hr>
+  <img src="./weather .png" alt="">
+  <br>
+  <hr>
+  </hr>
 
 STEPS TO RUN THE CODE: 
 1. Go to https://openweathermap.org

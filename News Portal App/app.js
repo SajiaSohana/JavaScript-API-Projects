@@ -1,4 +1,4 @@
-const apiKey = 'b840bcc25abc4362a99d5493a4c213da'; // Replace with your actual API key
+const apiKey = ''; // Replace with your actual API key
 
 document.addEventListener('DOMContentLoaded', () => {
     fetchPopularNews(); // Load popular news for the carousel on page load

@@ -19,8 +19,9 @@ Tech Stack:
 The app is built using:
 
 HTML/CSS: For structure and styling, leveraging Bootstrap for responsiveness and a modern UI.
-JavaScript: For dynamic content manipulation and user interactions.
-Axios: To handle API requests for fetching real-time data.
+<br>
+JavaScript: For dynamic content manipulation and user interactions.<br>
+Axios: To handle API requests for fetching real-time data.<br>
 <br>
 With its minimalist design and efficient functionality, the Currency Exchange Tracker App serves as a reliable resource for anyone looking to stay informed about currency fluctuations.
 <br>

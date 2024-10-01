@@ -12,7 +12,7 @@ The **Image Gallery** is a dynamic web application that showcases stunning image
 - **User-Friendly Interface**: Designed with a focus on usability and aesthetics, ensuring smooth navigation and visual appeal.
 <br>
 <br>
- [live](https://image-search-engine-js-api.netlify.app/)
+  
  <br>
 
 ## Technologies Used

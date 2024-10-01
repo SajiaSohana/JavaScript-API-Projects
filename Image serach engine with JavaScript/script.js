@@ -1,4 +1,4 @@
-const ACCESS_KEY = 'z_ZfKDcXQEhTDPYJVgf_SMlrJuXnjNbY8UePEWGSsxA';
+const ACCESS_KEY = ''; //api key 
 const API_URL = `https://api.unsplash.com/photos/random?client_id=${ACCESS_KEY}&count=10`;
 
 const searchInput = document.querySelector('.search-box input');

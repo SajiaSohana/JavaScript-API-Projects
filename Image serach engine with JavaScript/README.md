@@ -19,6 +19,7 @@ The **Image Gallery** is a dynamic web application that showcases stunning image
 - **HTML5** and **CSS3** for structure and styling.
 - **JavaScript** for dynamic content management and interaction.
 - **Unsplash API** for accessing high-quality images.
+  
 
 This project demonstrates my skills in web development, focusing on JavaScript, API integration, and creating responsive designs. The Image Gallery app not only serves as a showcase for beautiful images but also highlights my ability to build interactive and user-friendly web applications.
 
